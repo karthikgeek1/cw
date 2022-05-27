@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.a{
+    background-color: black;
+    color: white;
+    position: fixed;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+.b{
+   margin-bottom: 30px;
+   margin-left: 30px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    margin: 10px;
+}
+.c{
+    color: aqua;
+    margin-top: 15px;
+    margin-left: 10%;
+}
+.d{
+    color: black;
+    background-color: aqua;
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    margin-left: 30%;
+    border-radius: 10px;
+}
+.m{
+    background-image: url("https://media.macphun.com/img/uploads/customer/blog/1548348087/15483500765c49f27c4ad742.57005004.jpg?q=85&w=1680");
+    height: 100vh;
+    width: 100vw;
+    left: 0;
+    top: 10%;
+    right: 0;
+    background-size: cover;
+}
+.n{
+    color: aqua;
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.r{
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.q{
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    margin-top: 20px;
+    width: 30%;
+    height: 30%;
+}
+span{
+    color: aqua;
+}
+.j{
+    background-color: black;
+    height: 30px;
+    width: 150px;
+    border-width: 1px;
+    border-color: aqua;
+    color: aqua;
+    position: absolute;
+    left: 10%;
+    top: 75%;
+}
